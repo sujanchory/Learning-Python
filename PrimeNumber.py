@@ -6,6 +6,6 @@ for i in range(1,n+1):
     else:
         continue
 if(f<=2):
-    print("Prime")
+    print(n,"is Prime")
 else:
-    print("NOt A Prime")
+    print(n,"is not Prime")
